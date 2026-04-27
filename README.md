@@ -36,5 +36,5 @@ The system:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/afyanalytics-integration.git
+git clone https://github.com/Briankurgat786/Afyanalytics-integration-.git
 cd afyanalytics-integration
